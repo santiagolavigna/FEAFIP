@@ -1,8 +1,8 @@
 <?php
 
-include '../../afip.php/src/Afip.php';
+include 'src/Afip.php';
 
-$afip = new Afip(array('CUIT' => 11111111111));
+$afip = new Afip(array('CUIT' => 20372284103));
 
 /**
  * Numero del punto de venta
